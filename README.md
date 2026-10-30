@@ -47,6 +47,7 @@ Here are some ideas to get you started:
   <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/-LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:email@example.com"><img src="https://img.shields.io/badge/-Email-0d0d0d?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karllindo/Karllindo/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karllindo/Karllindo/pacman-output/pacman-contribution-graph.svg?game=pacman">
